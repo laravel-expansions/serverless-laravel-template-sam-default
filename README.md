@@ -9,7 +9,7 @@
 
 ### 1. Clone this repository
 ```
-git clone https://github.com/laravel-expansions/serverless-laravel-template-sam-kinesis.git
+git clone https://github.com/laravel-expansions/serverless-laravel-template-sam-default.git
 ```
 
 ### 2. Install composer packages (bref/bref and bref/laravel-bridge pre installed)
